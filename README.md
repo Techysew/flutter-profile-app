@@ -1,16 +1,26 @@
-# flutter_application_5
+# Flutter Profile App – Ongoing Assignment
 
-A new Flutter project.
+This is a **Flutter project** for a simple user profile page. It is currently an ongoing assignment, so more features will be added later.
 
-## Getting Started
+## Features (Current)
+- Shows a profile picture
+- Displays user name and email
+- Points counter that increases when you press the **+ button**
+- Clean and simple Flutter UI
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone this repository to your computer
+2. Make sure [Flutter](https://flutter.dev/) is installed
+3. Navigate to the project folder in terminal or command prompt
+4. Run:
+   ```bash
+   flutter pub get
+   flutter run
+Notes
 
-A few resources to get you started if this is your first Flutter project:
+This project is still in progress
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Profile picture is located in assets/image.png
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+More pages and features will be added in future updates
+Author: Sewmini Fernando
